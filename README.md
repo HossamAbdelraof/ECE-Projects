@@ -1,5 +1,6 @@
 # ECE-Projects
 this rebo for mini-projects in ECE Zagazig university with supervision Prof:"Ahmed Reda"
 
-### 1- project 1: Sportic gluves 
-this project is a sportif gloves that tels you weather you playing badminton god or bad by analysing your hand mvoement &  power
+### Project 1: Sports Glove
+ This project is a sports glove that makes you think about whether you're playing tennis right or not by treating your hand's embarrassment while playing.
+
