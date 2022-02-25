@@ -5,3 +5,5 @@ The full project consists of 3 stages.
 3. Stage 3: soldering all component together and on the glove. 
 4. Phase 4: Apply a ML model to classify the movement, expect whatever movement is correct or not.
 
+
+#### Each stage is accurately explained in a file bearing the same name with drivers and codes 
