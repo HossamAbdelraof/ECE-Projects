@@ -6,5 +6,5 @@ teh work done in htis phase is
 + Item 1
 + Item 2
 1. Item 3
-    - <emsp> Item 3a
+    1. <emsp> Item 3a
 + Item 3b
