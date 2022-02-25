@@ -2,9 +2,10 @@
 the whole team worked on this phase and devided into many sub-teams to work in barallel with eachothers:
 teh work done in htis phase is 
 1. Arduio nano communication with PC/Phone via Bluetoth
-  * test again
-+ Item 1
-+ Item 2
-1. Item 3
-    - [x] <emsp> Item 3a
-+ Item 3b
+    - [x] create communication code 
+    - [x] encode data to be transmetted
+    - [x] create an app to recieve data from arduino 
+2. simulate flix sesor/force sensor and choosing operation point point
+
+ 
+
