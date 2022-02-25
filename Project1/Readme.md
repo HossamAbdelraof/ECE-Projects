@@ -1,5 +1,5 @@
 # Project 1 discription
-> The full project consists of 3 stages.
+The full project consists of 3 stages.
 1. Phase 1: Reading the flex sensor and force on Arduino-nano and sending data via Bluetooth.
 2. Phase 2: Add the gyroscope sensor with other sensors and send it’s read with the rest of the sensors.
 3. Stage 3: soldering all component together and on the glove. 
