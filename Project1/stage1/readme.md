@@ -5,6 +5,6 @@ teh work done in htis phase is
   * test again
 + Item 1
 + Item 2
-+ Item 3
+1. Item 3
     - <emsp> Item 3a
 + Item 3b
